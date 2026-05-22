@@ -77,13 +77,13 @@ header{
     background-position: center;
 }
 .car1{
-    background-image: url("../img/Slider1.png");
+    background-image: url("../img/slider1.png");
 }
 .car2{
-    background-image: url("../img/Slider2.png");
+    background-image: url("../img/slider2.png");
 }
 .car3{
-    background-image: url("../img/Slider3.png");
+    background-image: url("../img/slider3.png");
 }
 .texto-carrusel{
     width: 60%;
